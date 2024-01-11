@@ -1,0 +1,16 @@
+@tailwind bsse;
+
+.text-6xl{
+  font-size: 3.75rem;
+  line-height: 1
+}
+
+.text-5xl{
+  font-size: 3rem;
+  line-height: 1
+}
+
+.text-amber-900{
+  --tw-text-opacity: 1;
+  color: rgb(120 53 15 / var(--tw-text-opacity))
+}
